@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://myurl.com/posts/firstpost/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/secondpost/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/thirdpost/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/fourthpost/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/about/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/about/</loc>
     <lastmod>2020-05-17</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/posts/</loc>
     <lastmod>2020-05-17</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/</loc>
     <lastmod>2020-05-17</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/page-list/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/page-list/</loc>
     <lastmod>2020-05-17</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/tags/</loc>
     <lastmod>2020-05-17</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/another-tag/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/tags/another-tag/</loc>
     <lastmod>2020-05-17</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/second-tag/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/tags/second-tag/</loc>
     <lastmod>2020-05-17</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/number-2/</loc>
+    <loc>https://myurl.com/Roguelike_Development_Website/tags/number-2/</loc>
     <lastmod>2020-05-17</lastmod>
   </url>
 </urlset>
