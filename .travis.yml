@@ -3,7 +3,7 @@ node_js:
   - 8
 before_script:
   - npm install @11ty/eleventy -g
-script: eleventy --pathprefix="/Roguelike_Development_Website/"
+script: eleventy --pathprefix="/"
 deploy:
   fqdn: blog.midnightjackal.com
   local-dir: _site
