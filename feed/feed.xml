@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Your Blog Name</title>
-	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<title>roguelike development with C# and SadConsole</title>
+	<subtitle>Documenting what I&#39;ve learned working with C# and SadConsole</subtitle>
 	
-	<link href="https://myurl.com/Roguelike_Development_Website/feed/feed.xml" rel="self"/>
-	<link href="https://myurl.com/"/>
-	<updated>2020-05-01T00:00:00-00:00</updated>
-	<id>https://myurl.com/</id>
+	<link href="https://thewazir.github.io/Roguelike_Development_Website/feed/feed.xml" rel="self"/>
+	<link href="https://thewazir.github.io/Roguelike_Development_Website/"/>
+	<updated>2020-05-17T00:00:00-00:00</updated>
+	<id>https://thewazir.github.io/Roguelike_Development_Website/</id>
 	<author>
-		<name>Your Name Here</name>
-		<email>youremailaddress@example.com</email>
+		<name>Omer Wazir</name>
+		<email></email>
 	</author>
 	
 	<entry>
 		<title>Getting setup with .Net Core, MonoGame and SadConsole</title>
-		<link href="https://myurl.com/Roguelike_Development_Website/posts/firstpost/"/>
-		<updated>2020-05-01T00:00:00-00:00</updated>
-		<id>https://myurl.com/Roguelike_Development_Website/posts/firstpost/</id>
+		<link href="https://thewazir.github.io/Roguelike_Development_Website/posts/firstpost/"/>
+		<updated>2020-05-17T00:00:00-00:00</updated>
+		<id>https://thewazir.github.io/Roguelike_Development_Website/posts/firstpost/</id>
 		<content type="html">&lt;p&gt;I did this on both MacOS and Linux and it was crazy easy.&lt;/p&gt;
 &lt;h2 id=&quot;just-follow-the-instructions&quot;&gt;Just follow the instructions &lt;a class=&quot;direct-link&quot; href=&quot;#just-follow-the-instructions&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;There&#39;s a &lt;a href=&quot;https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html&quot;&gt;&lt;strong&gt;guide&lt;/strong&gt;&lt;/a&gt; on the SadConsole website which explains what you need to do to create a new project. There isn&#39;t anything about the guide that&#39;s specifically for Windows, just follow the instructions if you&#39;re on MacOS or Linux.&lt;/p&gt;
@@ -30,7 +30,7 @@
 &lt;li&gt;Run the project with &lt;code&gt;dotnet run&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;If everything worked you should see this:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://myurl.com/img/hello_from_sadconsole.png&quot; alt=&quot;SadConsole view of random garbage&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://thewazir.github.io/img/hello_from_sadconsole.png&quot; alt=&quot;SadConsole view of random garbage&quot;&gt;&lt;/p&gt;
 </content>
 	</entry>
 </feed>
