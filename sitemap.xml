@@ -3,61 +3,46 @@
   
   <url>
     <loc>https://myurl.com/Roguelike_Development_Website/posts/firstpost/</loc>
-    <lastmod>2018-05-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myurl.com/Roguelike_Development_Website/posts/secondpost/</loc>
-    <lastmod>2018-07-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myurl.com/Roguelike_Development_Website/posts/thirdpost/</loc>
-    <lastmod>2018-08-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myurl.com/Roguelike_Development_Website/posts/fourthpost/</loc>
-    <lastmod>2018-09-30</lastmod>
+    <lastmod>2020-05-01</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/Roguelike_Development_Website/about/</loc>
-    <lastmod>2020-05-17</lastmod>
+    <lastmod>2020-05-18</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/Roguelike_Development_Website/posts/</loc>
-    <lastmod>2020-05-17</lastmod>
+    <lastmod>2020-05-18</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/Roguelike_Development_Website/</loc>
-    <lastmod>2020-05-17</lastmod>
+    <lastmod>2020-05-18</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/Roguelike_Development_Website/page-list/</loc>
-    <lastmod>2020-05-17</lastmod>
+    <lastmod>2020-05-18</lastmod>
   </url>
   
   <url>
     <loc>https://myurl.com/Roguelike_Development_Website/tags/</loc>
-    <lastmod>2020-05-17</lastmod>
+    <lastmod>2020-05-18</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/Roguelike_Development_Website/tags/another-tag/</loc>
-    <lastmod>2020-05-17</lastmod>
+    <loc>https://myurl.com/Roguelike_Development_Website/tags/c#/</loc>
+    <lastmod>2020-05-18</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/Roguelike_Development_Website/tags/second-tag/</loc>
-    <lastmod>2020-05-17</lastmod>
+    <loc>https://myurl.com/Roguelike_Development_Website/tags/SadConsole/</loc>
+    <lastmod>2020-05-18</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/Roguelike_Development_Website/tags/number-2/</loc>
-    <lastmod>2020-05-17</lastmod>
+    <loc>https://myurl.com/Roguelike_Development_Website/tags/roguelike/</loc>
+    <lastmod>2020-05-18</lastmod>
   </url>
 </urlset>
