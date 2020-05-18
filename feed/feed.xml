@@ -20,13 +20,14 @@
 		<content type="html">&lt;p&gt;I did this on both MacOS and Linux and it was crazy easy.&lt;/p&gt;
 &lt;h2 id=&quot;just-follow-the-instructions&quot;&gt;Just follow the instructions &lt;a class=&quot;direct-link&quot; href=&quot;#just-follow-the-instructions&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;There&#39;s a &lt;a href=&quot;https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html&quot;&gt;&lt;strong&gt;guide&lt;/strong&gt;&lt;/a&gt; on the SadConsole website which explains what you need to do to create a new project. There isn&#39;t anything about the guide that&#39;s specifically for Windows, just follow the instructions if you&#39;re on MacOS or Linux.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight:700;color: #FF0000;&quot;&gt;STOP!&lt;/span&gt; seriously read the &lt;a href=&quot;https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html&quot;&gt;&lt;strong&gt;guide&lt;/strong&gt;&lt;/a&gt; and you should see random garbage on a console view. Anything else I&#39;ve written is 100% based off the guide, I have nothing new to add.&lt;/p&gt;
 &lt;p&gt;Summary of installation instructions:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;https://dotnet.microsoft.com/download/dotnet-core&quot;&gt;Install .Net Core&lt;/a&gt; (Version 3.1 at the time I wrote this)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.monogame.net/downloads/&quot;&gt;Install MonoGame&lt;/a&gt; (3.7.1 when I wrote this)&lt;/li&gt;
 &lt;li&gt;Creating a working folder and change directory into it&lt;/li&gt;
-&lt;li&gt;Install the &lt;a href=&quot;https://dotnet.microsoft.com/download/dotnet-core&quot;&gt;SadConsole.Templates&lt;/a&gt; (this will work across operating systems)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://dotnet.microsoft.com/download/dotnet-core&quot;&gt;Create a project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Install the &lt;a href=&quot;https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html#install-the-templates&quot;&gt;SadConsole.Templates&lt;/a&gt; (this will work across operating systems)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html#create-a-project&quot;&gt;Create a project&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Run the project with &lt;code&gt;dotnet run&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;If everything worked you should see this:&lt;/p&gt;
