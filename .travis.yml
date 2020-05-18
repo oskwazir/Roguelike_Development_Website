@@ -5,6 +5,7 @@ before_script:
   - npm install @11ty/eleventy -g
 script: eleventy --pathprefix="/Roguelike_Development_Website/"
 deploy:
+  fqdn: blog.midnightjackal.com
   local-dir: _site
   provider: pages
   skip-cleanup: true
