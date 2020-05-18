@@ -1,26 +1,29 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Getting setup with .Net Core, MonoGame and SadConsole
+description: Creating a new dotnet core & C# project using SadConsole template.
+date: 2020-05-01
 tags:
-  - another-tag
+  - c#
+  - SadConsole
+  - roguelike
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I did this on both MacOS and Linux and it was crazy easy.
 
-## Section Header
+## Just follow the instructions
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+There's a [**guide**](https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html) on the SadConsole website which explains what you need to do to create a new project. There isn't anything about the guide that's specifically for Windows, just follow the instructions if you're on MacOS or Linux.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+Summary of installation instructions:
 
-// Test with a line break above this line.
-console.log('Test');
-```
+1. [Install .Net Core](https://dotnet.microsoft.com/download/dotnet-core) (Version 3.1 at the time I wrote this)
+1. [Install MonoGame](https://www.monogame.net/downloads/) (3.7.1 when I wrote this)
+1. Creating a working folder and change directory into it
+1. Install the [SadConsole.Templates](https://dotnet.microsoft.com/download/dotnet-core) (this will really work across operating systems)
+1. [Create a project](https://dotnet.microsoft.com/download/dotnet-core)
+1. Run the project with `dotnet run`
+
+If everything worked you should see this:
+
+![SadConsole view of random garbage](/img/hello_from_sadconsole.png)
