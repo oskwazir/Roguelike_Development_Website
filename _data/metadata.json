@@ -1,15 +1,14 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "roguelike development with C# and SadConsole",
+  "url": "https://thewazir.github.io/Roguelike_Development_Website/",
+  "description": "Documenting what I've learned working with C# and SadConsole",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Documenting what I've learned working with C# and SadConsole",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://thewazir.github.io/Roguelike_Development_Website/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Omer Wazir"
   }
 }

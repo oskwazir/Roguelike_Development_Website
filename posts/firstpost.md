@@ -1,7 +1,7 @@
 ---
 title: Getting setup with .Net Core, MonoGame and SadConsole
 description: Creating a new dotnet core & C# project using SadConsole template.
-date: 2020-05-01
+date: 2020-05-17
 tags:
   - c#
   - SadConsole
