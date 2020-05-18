@@ -3,7 +3,7 @@ title: Getting setup with .Net Core, MonoGame and SadConsole
 description: Creating a new dotnet core & C# project using SadConsole template.
 date: 2020-05-17
 tags:
-  - c#
+  - csharp
   - SadConsole
   - roguelike
 layout: layouts/post.njk
@@ -20,7 +20,7 @@ Summary of installation instructions:
 1. [Install .Net Core](https://dotnet.microsoft.com/download/dotnet-core) (Version 3.1 at the time I wrote this)
 1. [Install MonoGame](https://www.monogame.net/downloads/) (3.7.1 when I wrote this)
 1. Creating a working folder and change directory into it
-1. Install the [SadConsole.Templates](https://dotnet.microsoft.com/download/dotnet-core) (this will really work across operating systems)
+1. Install the [SadConsole.Templates](https://dotnet.microsoft.com/download/dotnet-core) (this will work across operating systems)
 1. [Create a project](https://dotnet.microsoft.com/download/dotnet-core)
 1. Run the project with `dotnet run`
 
