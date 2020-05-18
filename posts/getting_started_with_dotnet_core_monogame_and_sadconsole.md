@@ -15,13 +15,15 @@ I did this on both MacOS and Linux and it was crazy easy.
 
 There's a [**guide**](https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html) on the SadConsole website which explains what you need to do to create a new project. There isn't anything about the guide that's specifically for Windows, just follow the instructions if you're on MacOS or Linux.
 
+<span style='font-weight:700;color: #FF0000;'>STOP!</span> seriously read the [**guide**](https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html) and you should see random garbage on a console view. Anything else I've written is 100% based off the guide, I have nothing new to add.
+
 Summary of installation instructions:
 
 1. [Install .Net Core](https://dotnet.microsoft.com/download/dotnet-core) (Version 3.1 at the time I wrote this)
 1. [Install MonoGame](https://www.monogame.net/downloads/) (3.7.1 when I wrote this)
 1. Creating a working folder and change directory into it
-1. Install the [SadConsole.Templates](https://dotnet.microsoft.com/download/dotnet-core) (this will work across operating systems)
-1. [Create a project](https://dotnet.microsoft.com/download/dotnet-core)
+1. Install the [SadConsole.Templates](https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html#install-the-templates) (this will work across operating systems)
+1. [Create a project](https://sadconsole.com/articles/getting-started-sadconsole-core-cli-template.html#create-a-project)
 1. Run the project with `dotnet run`
 
 If everything worked you should see this:
